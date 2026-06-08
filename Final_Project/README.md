@@ -61,7 +61,7 @@ Deployed at **https://transformers-ann-project.netlify.app/** with five sections
 ### 3. MCQ Bank
 20 multiple-choice questions spanning Bloom's taxonomy levels — from recall to application and analysis. Sample questions cover: purpose of the attention mechanism; which tokens each token attends to; role of Q/K/V; why the √d_k scaling factor is necessary; why Transformers train faster than RNNs; O(n²) complexity trade-off.
 
-### 4. Report (this document)
+### 4. Report
 Documents project aim, architecture background, block diagram of workflow, deliverables, nine challenges encountered with solutions, AI tool usage, and conclusions.
 
 ---
